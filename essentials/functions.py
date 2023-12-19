@@ -52,4 +52,4 @@ def mean(list):
 
     return sum / len(list)
 
-print(mean([2, 3, 4, 5, 6, 6]))
+# print(mean([2, 3, 4, 5, 6, 6]))
