@@ -1,6 +1,6 @@
 import os, shutil
 
-# firsly, I'll create a simple and filder file which then I'll delete
+# firsly, I'll create a simple file, empty folder and a folder with a file which then I'll delete
 
 file_path = "public/simple.txt"
 dir_path = "public/empty"
