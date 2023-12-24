@@ -7,3 +7,8 @@ good_car = Car("Porsche", "911 Turbo S", 2017, "Black")
 
 good_car.drive()
 good_car.stop()
+
+good_car.wheels = 2
+
+print(good_car.wheels)
+print(Car.wheels)
