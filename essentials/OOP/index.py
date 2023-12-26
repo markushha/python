@@ -11,4 +11,6 @@ good_car.stop()
 good_car.wheels = 2
 
 print(good_car.wheels)
+# in this case, we'll change class parameter for all objects that were created using Car class
+Car.wheels = 3
 print(Car.wheels)
